@@ -1,9 +1,3 @@
-/*
-Lucas Ribeiro do Nascimento
-Ciframento de Cesar em Java
-
-*/
-
 class CifraCesar 
 {
 
